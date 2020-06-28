@@ -1,0 +1,99 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.box{
+	height: auto;
+	width: 600px;
+	padding: 40px;
+	margin: 50px auto;
+	border:1px solid black;
+}
+
+/*
+commentry assa hay!
+
+UID: 1141671243
+
+
+	<!--<div class="dropdown">
+			<p type="button" class="btn btn-danger dropdown-toggle" data-toggle="dropdown">DropDown Menu</p>
+		</div>
+		<div class="dropdown-menu" aria-labelledby="dropdownMenuButton>
+			<a class="dropdown-item"href="#">Menu 01</a>
+		</div>-->
+		<!--<div class="pagination">
+			<li class="page-item"><a class="page-link" href="#">Previous</a></li>
+			<li class="page-item"><a class="page-link" href="#">1</a></li>
+			<li class="page-item"><a class="page-link" href="#">2</a></li>
+			<li class="page-item"><a class="page-link" href="#">3</a></li>
+			<li class="page-item"><a class="page-link" href="#">4</a></li>
+			<li class="page-item"><a class="page-link" href="#">Next</a></li>
+		</div>-->
+		<!--<div class="progress">
+			<div class="progress-bar bg-danger progress-bar-striped" style="width: 70%">70%</div>
+		</div><br>
+		<div class="progress">
+			<div class="progress-bar bg-success progress-bar-striped" style="width: 70%">70%</div>
+		</div><br>
+		<div class="progress">
+			<div class="progress-bar bg-warning progress-bar-striped" style="width: 70%">70%</div>
+		</div><br>
+		<div class="progress">
+			<div class="progress-bar bg-info progress-bar-striped" style="width: 70%">70%</div>
+		</div><br>
+		<div class="progress">
+			<div class="progress-bar bg-primary progress-bar-striped" style="width: 70%">70%</div>
+		</div><br>-->
+
+		<!--<h1>Example of new badge number<span class="badge badge-danger">01</span></h1>
+		<h2>Example of new badge number<span class="badge badge-warning">02</span></h2>
+		<h3>Example of new badge number<span class="badge badge-danger">03</span></h3>
+		<h4>Example of new badge number<span class="badge badge-danger">04</span></h4>
+		<h5>Example of new badge number<span class="badge badge-danger">05</span></h5>
+		<h6>Example of new badge number<span class="badge badge-danger">05</span></h6>-->
+		<!--<table class="table table-bordered table-warning table-striped table-hover">
+			
+			<tr class="table-dark">
+				<th>First name</th>
+				<th>Last Name</th>
+				<th>Email</th>
+				<th>Phone</th>
+			</tr>
+
+			<tr class="table-success">
+				<td>Tahmid</td>
+				<td>Tuhin</td>
+				<td>tahmidtuhin74@gmail.com</td>
+				<td>01798905167</td>
+			</tr>
+			<tr class="table-info">
+				<td>Tahmid</td>
+				<td>Tuhin</td>
+				<td>tahmidtuhin74@gmail.com</td>
+				<td>01798905167</td>
+			</tr>
+			<tr class="table-primary">
+				<td>Tahmid</td>
+				<td>Tuhin</td>
+				<td>tahmidtuhin74@gmail.com</td>
+				<td>01798905167</td>
+			</tr>
+			<tr class="table-secondary">
+				<td>Tahmid</td>
+				<td>Tuhin</td>
+				<td>tahmidtuhin74@gmail.com</td>
+				<td>01798905167</td>
+			</tr>
+			<tr class="table-dark">
+				<td>Tahmid</td>
+				<td>Tuhin</td>
+				<td>tahmidtuhin74@gmail.com</td>
+				<td>01798905167</td>
+			</tr>
+			
+
+		</table>-->
+
+
+		*/
